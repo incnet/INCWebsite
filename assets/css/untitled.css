@@ -1,0 +1,25 @@
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+}
+
+#portfolio * {
+}
+
+#PorfolioImg img {
+  width: auto;
+  height: 273px;
+}
+
+#LastServe {
+  align-content: center;
+}
+
+@media (min-width:992px) {
+  .d-lg-flex {
+    display: -ms-flexbox!important;
+    display: flex!important;
+  }
+}
+
+.d-lg-flex.justify-content-lg-center {
+}
+
