@@ -23,3 +23,12 @@
 .d-lg-flex.justify-content-lg-center {
 }
 
+#lightbox #imageContainer img {
+  max-width: 600px;
+}
+
+@media (min-width: 768px) {
+  div {
+  }
+}
+

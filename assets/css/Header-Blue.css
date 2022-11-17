@@ -292,7 +292,7 @@ header.masthead .intro-text .intro-lead-in {
 }
 
 #PortfolioImg img {
-  width: auto;
+  width: 100%;
   height: 273px;
   object-fit: cover;
 }
